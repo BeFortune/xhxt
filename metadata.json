@@ -1,0 +1,5 @@
+{
+  "name": "OFDM System Simulation",
+  "description": "A modern, educational web application visualizing the construction, transmission, and reception of an OFDM system with interactive simulations.",
+  "requestFramePermissions": []
+}
